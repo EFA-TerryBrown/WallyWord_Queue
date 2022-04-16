@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "WallyWorld.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WallyWorld.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WallyWorld.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WallyWorld.Data/1.0.0": {
+      "type": "project",
+      "path": "../WallyWorld.Data/WallyWorld.Data.csproj",
+      "msbuildProject": "../WallyWorld.Data/WallyWorld.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "WallyWorld.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Terry\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\__00_CF_Works\\WallyWorld\\WallyWorld.Repository\\WallyWorld.Repository.csproj",
+      "projectName": "WallyWorld.Repository",
+      "projectPath": "D:\\__00_CF_Works\\WallyWorld\\WallyWorld.Repository\\WallyWorld.Repository.csproj",
+      "packagesPath": "C:\\Users\\Terry\\.nuget\\packages\\",
+      "outputPath": "D:\\__00_CF_Works\\WallyWorld\\WallyWorld.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Terry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\__00_CF_Works\\WallyWorld\\WallyWorld.Data\\WallyWorld.Data.csproj": {
+              "projectPath": "D:\\__00_CF_Works\\WallyWorld\\WallyWorld.Data\\WallyWorld.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WallyWorld.UI/1.0.0": {
+        "dependencies": {
+          "WallyWorld.Data": "1.0.0",
+          "WallyWorld.Repository": "1.0.0"
+        },
+        "runtime": {
+          "WallyWorld.UI.dll": {}
+        }
+      },
+      "WallyWorld.Data/1.0.0": {
+        "runtime": {
+          "WallyWorld.Data.dll": {}
+        }
+      },
+      "WallyWorld.Repository/1.0.0": {
+        "dependencies": {
+          "WallyWorld.Data": "1.0.0"
+        },
+        "runtime": {
+          "WallyWorld.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WallyWorld.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WallyWorld.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WallyWorld.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

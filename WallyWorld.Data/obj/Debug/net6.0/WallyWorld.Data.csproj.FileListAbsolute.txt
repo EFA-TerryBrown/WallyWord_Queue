@@ -1,0 +1,12 @@
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\bin\Debug\net6.0\WallyWorld.Data.deps.json
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\bin\Debug\net6.0\WallyWorld.Data.dll
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\bin\Debug\net6.0\ref\WallyWorld.Data.dll
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\bin\Debug\net6.0\WallyWorld.Data.pdb
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.csproj.AssemblyReference.cache
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.AssemblyInfoInputs.cache
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.AssemblyInfo.cs
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.csproj.CoreCompileInputs.cache
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.dll
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\ref\WallyWorld.Data.dll
+D:\__00_CF_Works\WallyWorld\WallyWorld.Data\obj\Debug\net6.0\WallyWorld.Data.pdb
